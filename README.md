@@ -3,7 +3,7 @@
 **AdvancedTesla** is a plugin for SCP: Secret Laboratory built on the **EXILED API**, designed to make **Tesla Gates more dynamic, interactive, and dangerous**.
 It introduces both **smart bypass mechanics** based on player inventory and a chaotic "**Crazy Tesla**" mode that triggers gates periodically, creating immersive and unpredictable scenarios.
 
-[![downloads](https://img.shields.io/github/downloads/TheKolo12/Advanced-Tesla/total?style=for-the-badge\&logo=icloud\&color=%233A6D8C)](https://github.com/TheKolo12/AdvancedTesla/releases/latest)
+[![downloads](https://img.shields.io/github/downloads/TheKolo12/Advanced-Tesla/total?style=for-the-badge\&logo=icloud\&color=%233A6D8C)](https://github.com/TheKolo12/Advanced-Tesla/releases/latest)
 ![Latest](https://img.shields.io/github/v/release/TheKolo12/Advanced-Tesla?style=for-the-badge\&label=Latest%20Release\&color=%23D91656)
 
 ---
