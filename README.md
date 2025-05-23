@@ -27,7 +27,7 @@ Great for **RP servers**, **event-based gameplay**, or just adding a little more
 
 ### 📦 Requirements
 
-* **EXILED API v9.5.2 or newer**
+* **EXILED API v9.6.0 or newer**
 * SCP\:SL server with plugin support enabled
 
 ---
