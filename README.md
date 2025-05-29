@@ -2,8 +2,8 @@
 
 **BetterTesla** is a plugin for SCP: Secret Laboratory using EXILED. It enhances Tesla Gate behavior with dynamic and customizable mechanics like **item-based immunity**, **chaotic Tesla surges**, and **overcharged blackout sequences** — designed to create more immersive and unpredictable rounds.
 
-[![downloads](https://img.shields.io/github/downloads/TheKolo12/Advanced-Tesla/total?style=for-the-badge\&logo=tesla\&color=%232875B2)](https://github.com/TheKolo12/Advanced-Tesla/releases/latest)
-![Latest](https://img.shields.io/github/v/release/TheKolo12/Advanced-Tesla?style=for-the-badge\&label=Latest%20Release\&color=%23D91656)
+[![downloads](https://img.shields.io/github/downloads/TheKolo12/Better-Tesla/total?style=for-the-badge\&logo=tesla\&color=%232875B2)](https://github.com/TheKolo12/Better-Tesla/releases/latest)
+![Latest](https://img.shields.io/github/v/release/TheKolo12/Better-Tesla?style=for-the-badge\&label=Latest%20Release\&color=%23D91656)
 
 ---
 
